@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Noel
-I'm a passionate **Data Analyst** who loves transforming raw data into clear, actionable insights. With expertise in Advanced Excel, SQL, Python, and Power.
+I'm a passionate **Data Analyst** who loves transforming raw data into clear, actionable insights. With expertise in Advanced Excel, SQL, Python, and Power Bi.
 I enjoy solving tough challenges and helping businesses make smarter decisions. 
 I believe every dataset has a story to tell, and I love creating visually engaging reports and finding innovative ways to solve problems and drive success.
 
@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 ### SQL:
 - 📋 Writes complex queries with joins, subqueries, and aggregations..
-- 🗃️ Manages databases using MySQL and SQL Server.
+- 🗃️ Manages databases using MySQL and Microsoft SQL Server.
 - 🔧  Handles data manipulation and transformation efficiently.
 - 🚀 Optimizes queries for working with large datasets.
 
