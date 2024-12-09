@@ -1,7 +1,9 @@
 ## 👋 Hi, I’m Noel
-I'm a passionate **Data Analyst** who loves transforming raw data into clear, actionable insights. With expertise in Advanced Excel, SQL, Python, and Power Bi.
+I'm a passionate **Data Analyst** who loves transforming raw data into clear, actionable insights. 
+With expertise in Advanced Excel, SQL, Python, and Power Bi.
 I enjoy solving tough challenges and helping businesses make smarter decisions. 
 I believe every dataset has a story to tell, and I love creating visually engaging reports and finding innovative ways to solve problems and drive success.
+I’m looking to collaborate on **Data Analytics projects.**
 
 ____________________________________________________________________________________________________________________________________________________________
 ## 💻 Skills & Expertise
